@@ -57,3 +57,5 @@ All API interactions and errors are logged to `trading_bot.log` in the project r
   - `validators.py`: Input validation logic.
   - `logging_config.py`: Centralized logging setup.
 - `cli.py`: Command-line interface entry point.
+
+## Owner: Shruti Pawar
